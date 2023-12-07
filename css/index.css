@@ -66,3 +66,11 @@ body {
     gap: 1rem;
   }
 
+  .carte{
+    width: 20rem;
+    width: 33rem;
+    background-color: white;
+    border-radius: 1rem;
+    border-color: #17254B;
+  }
+
